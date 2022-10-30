@@ -1,0 +1,2 @@
+path = "/kaggle/input/tsf-datasets/student_scores.csv"
+data = pd.read_csv(path)
